@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(236, 95, 8);
+}
+.container h1 {
+  font-size: 40px;
+}
+.container p {
+  font-size: 24px;
+  line-height: 1.4;
+}
+.container img {
+  max-width: 450px;
+  margin-left: 80px;
+}
+.container {
+  width: 700px;
+  margin: 0 auto;
+  background-color: pink;
+}
